@@ -57,7 +57,7 @@ The dataset consists of structured student feedback responses across multiple ev
 
 ## 📦 Deliverables
 
-- Power BI Dashboard (  
+- Power BI Dashboard (  https://github.com/Mehween-fatima/Student_feedback_dashboard/blob/main/Student_Feedback_Dashboard_Pdf.pdf)
 - Dataset (`.csv`)  
 - Project Report (`.pdf`)  
 - Dashboard Screenshots (https://github.com/Mehween-fatima/Student_feedback_dashboard/blob/main/Screenshot%202026-01-02%20161229%20(2).png)
